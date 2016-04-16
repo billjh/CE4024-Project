@@ -1,2 +1,7 @@
 *.txt
 *.dat
+*.log
+dist/
+__pycache__/
+
+!Users.txt
