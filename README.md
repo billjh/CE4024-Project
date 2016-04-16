@@ -14,8 +14,8 @@ Requirement: Python 3+
 
 Requirement: Python 3.4.3, py2exe 0.9.2.2
 
-'python setup1.py' will generate **Problem1.exe** into dist folder.
+`python setup1.py` will generate **Problem1.exe** into dist folder.
 
-'python setup2.py' will generate **Problem2.exe** into dist folder.
+`python setup2.py` will generate **Problem2.exe** into dist folder.
 
 Remember to move the executables out from the dist folder before executing them.
